@@ -16,7 +16,7 @@ library(car)
 ### Evaluating Complex Interventions. Practical exercise 1.1. Multilinear modelling ###
 
 ### LOS data: load and wrangle a bit
-LOSdata <- read.csv("~/projects/DSU course/LOSdata.csv")
+LOSdata <- read.csv("LOSdata.csv")
 names(LOSdata) [1] <- "LOS"
 LOSdata$EthnicGroup <- as.factor(LOSdata$EthnicGroup)
 
