@@ -18,7 +18,7 @@ par(mfrow = c(1, 1))  ### if you still have the plot setting with 4 windows
 ### Evaluating Complex Interventions. Practical exercise 1.3 Time-Series Modelling ###
 
 ### AE data: load and wrangle a bit
-AEdata <- read.csv("~/projects/DSU course/AEdata.csv")
+AEdata <- read.csv("AEdata.csv")
 names(AEdata) [1] <- "Period"
 AEdata$Period <- as.Date(AEdata$Period, format="%d/%m/%Y")
 
