@@ -1,4 +1,6 @@
-What affects the risk of death?
+## Exercise 2 - building logistic regression
+
+### What affects the risk of death?
 Materials include:
 
 1. Synthetic Dataset
