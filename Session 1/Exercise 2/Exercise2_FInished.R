@@ -11,7 +11,7 @@ install.packages("ggplot2")
 # Using the same dataset, we predict death
 
 ### LOS data: load and wrangle a bit
-LOSdata <- read.csv("~/projects/DSU course/LOSdata.csv")
+LOSdata <- read.csv("LOSdata.csv")
 names(LOSdata) [1] <- "LOS"
 LOSdata$EthnicGroup <- as.factor(LOSdata$EthnicGroup)
 
