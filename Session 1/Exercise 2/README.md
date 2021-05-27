@@ -1,7 +1,7 @@
 What affects the risk of death?
 Materials include:
 
-Synthetic Dataset
-Empty Exercise script
-Exercise script from the classroom work
-Finished Exercise
+1. Synthetic Dataset
+2. Empty Exercise script
+3. Exercise script from the classroom work
+4. Finished Exercise
