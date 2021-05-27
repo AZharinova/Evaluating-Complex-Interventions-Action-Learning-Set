@@ -1,4 +1,4 @@
-###Session 1 - Introduction to course & Regression Modelling
+## Session 1 - Introduction to course & Regression Modelling
 
 1. Introduction to the course and Regression modelling
 - Types of models?
