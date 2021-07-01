@@ -5,5 +5,5 @@
 3. Dataset for the exerice (session 4)
 4. Exercise (session 4)
 
-Materials are prepared by [Bruno Petrungaro] (https://healtheconomicsunit.nhs.uk/teams/bruno-petrungaro/)
+Materials are prepared by [Bruno Petrungaro](https://healtheconomicsunit.nhs.uk/teams/bruno-petrungaro/)
 
