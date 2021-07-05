@@ -1,4 +1,4 @@
-## Session 1 - Introduction to Directed Acyclic Graphs in Econometrics
+## Session 2 - Introduction to Directed Acyclic Graphs in Econometrics
 
 1. Slides from the sessions 1-3
 2. Script from the sessions 1-3
