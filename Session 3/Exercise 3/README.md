@@ -1,4 +1,4 @@
-## Exercise 1 - building dif-in-dif model
+## Exercise 3 - building ITS model using glm
 ### Did the smoking ban in Sicily reduced the number of acute coronary episodes
 Materials include:
 1. Sicily dataset
